@@ -1,0 +1,28 @@
+{
+  "name": "estimtoit-backend",
+  "version": "1.0.0",
+  "description": "Backend Node.js/Express/MongoDB/TypeScript pour Estim'Toit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "estimtoit",
+    "nodejs",
+    "express",
+    "mongodb",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.8.7"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "@types/mongoose": "^5.11.97",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "typescript": "^5.0.0"
+  }
+}
